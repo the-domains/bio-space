@@ -1,0 +1,14 @@
+layout_spectrum: 0.7787906450685114
+typography_spectrum: 0.5776546595152467
+color:
+  brandStrength: 0.27940914290957153
+  lightness: 0.8074010249692947
+  saturation: 0.2880178727209568
+  rhythmicContrast: 0.035996969789266586
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Bio Space
